@@ -1,0 +1,6 @@
+[core]
+    remote = myremoteazure
+['remote "myremote"']
+    url = https://mltrainingihsen2025.blob.core.windows.net/dvc
+['remote "myremoteazure"']
+    url = azure://dvc
